@@ -1,5 +1,6 @@
 {
   "name": "pica",
+  "main": "./dist/pica.js",
   "description": "High quality image resize in browser.",
   "version": "3.0.4",
   "keywords": [
